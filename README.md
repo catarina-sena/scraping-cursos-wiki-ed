@@ -1,1 +1,0 @@
-# scraping-cursos-wiki-ed
